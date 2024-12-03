@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LADsy8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... C#, Kotlin, C++, Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Open Source Things, Pirates, WW1, Godot, CyberSecurity
+- 🌱 I’m currently learning ... C#, Kotlin, C++, Java, C++
+- 💞️ I’m looking to collaborate on ...BTA
 - 📫 How to reach me ...
 
 <!---
